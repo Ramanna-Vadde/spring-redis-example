@@ -8,7 +8,7 @@ import org.springframework.data.redis.connection.jedis.JedisConnectionFactory;
 import org.springframework.data.redis.core.RedisTemplate;
 
 @SpringBootApplication
-//Some comment by Me!
+//Some comment by Me.!
 public class SpringRedisExampleApplication {
 
 	@Bean
